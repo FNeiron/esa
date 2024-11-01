@@ -1,5 +1,10 @@
 # Practical Work #1
 ## Application with common JavaEE architecture
+### Team
+- 6133 | Головань Анна
+  - Модели, репозитории, исправляла баги Руслана
+- 6133 | Фазылов Руслан
+  - Сервисы, сервлеты, GlassFish, исправлял баги Ани
 ### General task
 You are to develop an application using common JavaEE architecture and technologies. It should have three layers (data, logic, view) and provide means to work with a database.
 It is strongly recommended to use version control and source code management system (like GitHub).
